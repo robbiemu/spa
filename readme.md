@@ -2,7 +2,7 @@ requireJS-SPA
 == 
 _a single page app based solely on requireJS_
 
-!<img src="http://imgur.com/Z6aUxQU.png" width="50vw" />
+<img src="http://imgur.com/Z6aUxQU.png" align="center" style="max-width: 50vw" />
 [firebase example](https://requirejs-spa.firebaseapp.com/)
 
 ##Features
