@@ -1,0 +1,26 @@
+:root {
+  font-size: 3vw;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke !important;
+}
+
+body > *:not(header) a:link {
+  color: cadetblue;
+  text-decoration: none;
+}
+body > *:not(header) a:hover {
+  color: cornflowerblue;
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+}
