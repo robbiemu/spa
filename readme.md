@@ -2,12 +2,12 @@ requireJS-SPA
 == 
 _a single page app based solely on requireJS_
 
-![example app](http://imgur.com/Z6aUxQU.png)
+!<img src="http://imgur.com/Z6aUxQU.png" width="50vw" />
 [firebase example](https://requirejs-spa.firebaseapp.com/)
 
 ##Features
 
-This is a basic MVC framework, and was originally a sort of _proof-of-concept_. It supports **routing**, and some degree of **templating** (including 3 tags, `spa-view`, `spa-insert`, and `spa-repeat`, and a fourth `spa-domain` that limits the scope of processing). It provides a callback you can attach to after a page template cycle has completed. You can trigger templating on demand.
+This is a basic MVC framework, and was originally a sort of _proof-of-concept_. It supports **routing**, and some degree of **templating** (including 3 tags, `spa-view`, `spa-insert`, and `spa-repeat`, and a fourth `spa-domain` that limits the scope of processing). It provides a callback you can attach to after a page template cycle has completed. You can trigger templating on demand, and it runs once on load.
 
 This started out as a _much shorter_ ball of code: my initial SPA was about 150 lines of code plus libs. But then I wanted tags. And then I wanted to remove the dependency on jQuery (awesome as it is).
 
