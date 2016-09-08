@@ -2,6 +2,8 @@ requireJS-SPA
 == 
 _a single page app based solely on requireJS_
 
+[![Coverage Status](https://coveralls.io/repos/github/robbiemu/spa/badge.svg?branch=master)](https://coveralls.io/github/robbiemu/spa?branch=master)
+
 <img src="http://imgur.com/Z6aUxQU.png" align="center" width="200" />
 [firebase example](https://requirejs-spa.firebaseapp.com/)
 
